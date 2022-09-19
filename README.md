@@ -1,4 +1,4 @@
-# IBM-DS-Course
+# IBM-DS-Program
 ## Data Science Fundamentals with Python and SQL
 ### IBM's program of 5 courses on Coursera 
 status: "Professional Specialization"
